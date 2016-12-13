@@ -1,0 +1,7 @@
+
+.project
+
+.DS_Store
+/target/
+
+.settings/

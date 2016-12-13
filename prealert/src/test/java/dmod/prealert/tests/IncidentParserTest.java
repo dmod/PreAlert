@@ -1,4 +1,4 @@
-package src.test.java.dmod.prealert.tests;
+package dmod.prealert.tests;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import org.ghost4j.Ghostscript;
 import org.ghost4j.GhostscriptException;
 import org.junit.Test;
 
-import com.dmod.prealert.Incident;
+import dmod.prealert.Incident;
 
 import net.sourceforge.tess4j.ITesseract;
 import net.sourceforge.tess4j.Tesseract;
@@ -20,8 +20,6 @@ public class IncidentParserTest {
 	@Test
 	public void defaultState() {
 
-		System.setProperty("jna.library.path", "C:/Program Files/gs/gs9.20/bin");
-		
         //get Ghostscript instance
         Ghostscript gs = Ghostscript.getInstance();
  

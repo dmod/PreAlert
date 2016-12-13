@@ -1,4 +1,4 @@
-package com.dmod.prealert;
+package dmod.prealert;
 
 import java.util.ArrayList;
 import java.util.Collections;

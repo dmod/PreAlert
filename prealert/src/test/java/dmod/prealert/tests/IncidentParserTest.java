@@ -24,6 +24,7 @@ public class IncidentParserTest {
         Ghostscript gs = Ghostscript.getInstance();
  
         //prepare Ghostscript interpreter parameters
+        //TEst COMMENT
         //refer to Ghostscript documentation for parameter usage
         String[] gsArgs = new String[3];
         gsArgs[0] = "-sDEVICE=tiffpack";

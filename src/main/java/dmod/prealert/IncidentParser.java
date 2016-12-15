@@ -1,4 +1,4 @@
-package main.java.dmod.prealert;
+package dmod.prealert;
 
 public class IncidentParser {
 	

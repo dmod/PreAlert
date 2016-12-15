@@ -1,4 +1,4 @@
-package main.java.dmod.prealert;
+package dmod.prealert;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

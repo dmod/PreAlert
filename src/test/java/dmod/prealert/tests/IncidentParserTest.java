@@ -1,4 +1,4 @@
-package dmod.prealert.tests;
+package test.java.dmod.prealert.tests;
 
 import java.io.File;
 import java.io.IOException;
